@@ -15,6 +15,8 @@ Outside of writing code, I am a World-Builder and write fantasy short stories (a
 
 I like to read, too. Read the graphic novel <i>Maus</i>. My moniker arrived in a fevered dream the night after completing that work.
 
+I also like cats. My familiar, Pyewacket, is probably watching you right now. She may or may not be transmitting over LORA.
+
 - 🌱 I’m currently learning ...
 
 I'm currently learning Java, Python, Swedish, and how to tie my shoes. My obsessive focus at this time is on creating a mod for Minecraft and after <strike>10</strike> <strike>11</strike> <strike>12</strike> 13 tries, I have finally made two blocks and an item. I know, learning Java while learning how to program mods in Java is the wrong way to do it™, but from my viewpoint, Java is just a (unnecessarily complicated) son of C++, and I eat a bowl of C++ties and milk every morning. It's the IDEs that get under my skin more than this Java stuff. Heck, NANO is almost too much of an IDE for me to swallow.
@@ -27,6 +29,8 @@ Nothing. I am an old-school nerd; highly agoraphobic and don't feel comfortable 
 
 You could possibly reach me by meeting me on the street, or researching my digital footprint (google me: I am everywhere except for Twitter). I don't beg for attention, so I don't put my contact data out there.
 
+
+CONGRATULATIONS! You have surmounted my wall of text. 
 
 --Sincerely,
 T. Nett Maus
