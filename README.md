@@ -23,6 +23,9 @@ Nothing. I am an old-school nerd; highly agoraphobic and don't feel comfortable 
 You could possibly reach me by meeting me on the street, or researching my digital footprint. I don't beg for attention, so I don't put my contact data out there.
 
 
+--Sincerely,
+T. Nett Maus
+
 <!---
 nettmaus/nettmaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
