@@ -16,7 +16,7 @@ Outside of writing code, I am a World-Builder and write fantasy short stories (a
 
 I also like to listen to music, from pre-Metallica to Bardcore.
 
-I like to read, too. Read the graphic novel <i>Maus</i>. My moniker arrived in a fevered dream the night after completing that work.
+I like to read, too. I recommend the graphic novel, <i>Maus</i>. My moniker arrived in a fevered dream the night after completing that work.
 
 I also like cats. My familiar, Piewacket [sic], is probably watching you right now. She may or may not be transmitting over LORA.
 
