@@ -2,7 +2,7 @@ Githun told me to make a readme for my profile page. I'm taking a shirt break be
 
 - 👋 Hi, I’m @nettmaus
 
-Hi, I’m @nettmaus, and I am following the template they gave me. Mostly. I have been Nettmaus for 30+ years. Before that, I was a mortal. While mortal, I got hooked on all things digital after messing around with code on my VIC-20. After I upgraded to an Atari 130XE, I was exploring Assembly and during a rather rough summoning session, something snapped and I decided to explore the vulnerable side of computers. Sometime on the 90s, I died. Nettmaus stole my body, performed the Abjuration of Gates, and now here I am.
+Hi, I’m @nettmaus, and I am following the template they gave me. Mostly. I have been Nettmaus for 30+ years. Before that, I was a mortal. While mortal, I got hooked on all things digital after messing around with code on my VIC-20. After I upgraded to an Atari 130XE, I was exploring Assembly and during a rather rough conjuration, something snapped and I decided to explore the vulnerable side of computers. Sometime on the 90s, I died. Nettmaus stole my body, performed the Abjuration of Gates, and now here I am.
 
 - 👀 I’m interested in ...
 
