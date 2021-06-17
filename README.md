@@ -8,7 +8,7 @@ I have been Nettmaus for 30+ years. Before that, I was a mortal. While mortal, I
 
 - 👀 <b>I’m interested in ...</b>
 
-LINUX UBER ALLES. I installed Slackware 1.0 from 26 diskettes onto a (then brand new) Compaq 386 and never looked back. I have yet to encounter a computerized task that cannot be accomplished on a Linux system. Including most games.
+LINUX UBER ALLES. I installed Slackware 1.0 from 26 diskettes onto a (then brand new) Compaq 386 and never looked back. I have yet to encounter a computerized task that cannot be accomplished on a Linux system. Including most games. I mostly use Ubuntu, Raspbian. Everything else runs on Proxmox.
 
 I dabble in code, both living and long dead (sorry Forth... Fortran... Perl...). I was a PerlMonk, but don't practice it anymore - at least not in public (it is apparently indecent these days). I am coding agnostic, and as long as it's Turing Complete, I can probably write code in it once I figure out the syntax and symbols. Except, I can't write assembly sober, or without my bag of powdered silver and chicken's blood. 
 
