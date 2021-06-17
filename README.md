@@ -19,7 +19,7 @@ I also like cats. My familiar, Piewacket [sic], is probably watching you right n
 
 - 🌱 I’m currently learning ...
 
-I'm currently learning Java, Python, Swedish, and how to tie my shoes. My obsessive focus at this time is on creating a mod for Minecraft and after <strike>10</strike> <strike>11</strike> <strike>12</strike> 13 tries, I have finally made two blocks and an item. I know, learning Java while learning how to program mods in Java is the wrong way to do it™, but from my viewpoint, Java is just a (unnecessarily complicated) son of C++, and I eat a bowl of C++ties and milk every morning. It's the IDEs that get under my skin more than this Java stuff. Heck, NANO is almost too much of an IDE for me to swallow.
+I'm currently learning Java, Python, Swedish, and how to tie my shoes. My obsessive focus at this time is on creating a mod for Minecraft and after <strike>10</strike> <strike>11</strike> <strike>12</strike> 13 tries, I have finally made two blocks and an item. I know, learning Java while learning how to program mods in Java is the wrong way to do it™, but from my viewpoint, Java is just an unnecessarily complicated (and possibly drunk) relative of C++, and I eat a bowl of C++ties and milk every morning. It's the IDEs that get under my skin more than this Java stuff. Heck, NANO is almost too much of an IDE for me to swallow.
 
 - 💞️ I’m looking to collaborate on ...
 
