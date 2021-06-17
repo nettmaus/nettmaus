@@ -7,6 +7,7 @@ Hi, I’m @nettmaus, and I am following the template they gave me. Mostly. I hav
 I have been Nettmaus for 30+ years. Before that, I was a mortal. While mortal, I got hooked on all things digital after messing around with code on my VIC-20. After I upgraded to an Atari 130XE, I was exploring Assembly and during a rather rough conjuration, something snapped and I decided to explore the vulnerable side of computers. Sometime on the 90s, I died. Nettmaus stole my body, performed the Abjuration of Gates, and now here I am.
 
 - 👀 <b>I’m interested in ...</b>
+
 LINUX UBER ALLES. I installed Slackware 1.0 from 26 diskettes onto a (then brand new) Compaq 386 and never looked back. I have yet to encounter a computerized task that cannot be accomplished on a Linux system. Including most games.
 
 I dabble in code, both living and long dead (sorry Forth... Fortran... Perl...). I was a PerlMonk, but don't practice it anymore - at least not in public (it is apparently indecent these days). I am coding agnostic, and as long as it's Turing Complete, I can probably write code in it once I figure out the syntax and symbols. Except, I can't write assembly sober, or without my bag of powdered silver and chicken's blood. 
@@ -37,6 +38,7 @@ CONGRATULATIONS! You have surmounted my wall of text.
 --Sincerely,
 T. Nett Maus
 
+<i>I contain multitudes</i>
 <!---
 nettmaus/nettmaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
