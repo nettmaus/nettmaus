@@ -24,7 +24,7 @@ Nothing. I am an old-school nerd; highly agoraphobic and don't feel comfortable 
 
 - 📫 How to reach me ...
 
-You could possibly reach me by meeting me on the street, or researching my digital footprint. I don't beg for attention, so I don't put my contact data out there.
+You could possibly reach me by meeting me on the street, or researching my digital footprint (google me: I am everywhere except for Twitter). I don't beg for attention, so I don't put my contact data out there.
 
 
 --Sincerely,
