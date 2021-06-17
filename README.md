@@ -1,4 +1,4 @@
-Githun told me to make a readme for my profile page. I'm taking a shirt break between lessons right now to write one.
+Github told me to make a readme for my profile page. I'm taking a shirt break between lessons right now to write one.
 
 - 👋 Hi, I’m @nettmaus
 
