@@ -6,9 +6,9 @@ Hi, I’m @nettmaus, and I am following the template they gave me. Mostly. I hav
 
 LINUX UBER ALLES. I installed Slackware 1.0 from 26 diskettes onto a (then brand new) Compaq 386 and never looked back. I have yet to encounter a computerized task that cannot be accomplished on a Linux system. Including most games.
 
-I dabble in code, both living and long dead (sorry Forth... Fortran... Perl...). I was a PerlMonk, but don't practice it anymore - at least not in public. I am coding agnostic, and as long as it's Turing Complete, I can probably write code in it once I figure out the syntax and symbols. Except, I can't write assembly sober, or without my bag of powdered silver and chicken's blood. 
+I dabble in code, both living and long dead (sorry Forth... Fortran... Perl...). I was a PerlMonk, but don't practice it anymore - at least not in public (it is apparently indecent these days). I am coding agnostic, and as long as it's Turing Complete, I can probably write code in it once I figure out the syntax and symbols. Except, I can't write assembly sober, or without my bag of powdered silver and chicken's blood. 
 
-Outside of writing code, I am a World-Builder and write fantasy short stories (and sometimes rotten poetry). I also like to learn new languages - both compter programming and human communication (C++, German, Perl, Russian, Spanish, etc. are all in my toolkit). When I feel particularly frisky, I make dangerous things out of Raspberry Pis. I am trying to put one into my dead robot's brain. I hear SLAM works on a Pi.
+Outside of writing code, I am a World-Builder and write fantasy short stories (and sometimes rotten poetry). I also like to learn new languages - both compter programming and human communication (C++, Draconian, Forth, German, Old Dryynsh, Perl, Russian, Spanish, etc. are all in my toolkit). When I feel particularly frisky, I make dangerous things out of Raspberry Pis. I am trying to put one into my dead robot's brain. I hear SLAM works on a Pi.
 
 - 🌱 I’m currently learning ...
 
